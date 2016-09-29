@@ -1,0 +1,16 @@
+..\outfile\device.o: ..\srccode\device.c
+..\outfile\device.o: ..\srccode\device.h
+..\outfile\device.o: ..\srccode\global.h
+..\outfile\device.o: ..\srccode\stm32f10x.h
+..\outfile\device.o: ..\lib\CMSIS\CM3\CoreSupport\core_cm3.h
+..\outfile\device.o: F:\keil\ARM\ARMCC\bin\..\include\stdint.h
+..\outfile\device.o: ..\srccode\system_stm32f10x.h
+..\outfile\device.o: ..\srccode\stm32f10x_conf.h
+..\outfile\device.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\outfile\device.o: ..\srccode\stm32f10x.h
+..\outfile\device.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+..\outfile\device.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\outfile\device.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\outfile\device.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\outfile\device.o: ..\srccode\myiic.h
+..\outfile\device.o: ..\srccode\sys.h

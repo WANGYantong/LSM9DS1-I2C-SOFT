@@ -1,0 +1,15 @@
+..\outfile\lsm9ds1.o: ..\srccode\lsm9ds1.c
+..\outfile\lsm9ds1.o: ..\srccode\lsm9ds1.h
+..\outfile\lsm9ds1.o: ..\srccode\global.h
+..\outfile\lsm9ds1.o: ..\srccode\stm32f10x.h
+..\outfile\lsm9ds1.o: ..\lib\CMSIS\CM3\CoreSupport\core_cm3.h
+..\outfile\lsm9ds1.o: F:\keil\ARM\ARMCC\bin\..\include\stdint.h
+..\outfile\lsm9ds1.o: ..\srccode\system_stm32f10x.h
+..\outfile\lsm9ds1.o: ..\srccode\stm32f10x_conf.h
+..\outfile\lsm9ds1.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\outfile\lsm9ds1.o: ..\srccode\stm32f10x.h
+..\outfile\lsm9ds1.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+..\outfile\lsm9ds1.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\outfile\lsm9ds1.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\outfile\lsm9ds1.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\outfile\lsm9ds1.o: ..\srccode\lsm9ds1_register.h

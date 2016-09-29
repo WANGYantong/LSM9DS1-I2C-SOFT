@@ -1,0 +1,13 @@
+..\outfile\delay.o: ..\srccode\delay.c
+..\outfile\delay.o: ..\srccode\stm32f10x.h
+..\outfile\delay.o: ..\lib\CMSIS\CM3\CoreSupport\core_cm3.h
+..\outfile\delay.o: F:\keil\ARM\ARMCC\bin\..\include\stdint.h
+..\outfile\delay.o: ..\srccode\system_stm32f10x.h
+..\outfile\delay.o: ..\srccode\stm32f10x_conf.h
+..\outfile\delay.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\outfile\delay.o: ..\srccode\stm32f10x.h
+..\outfile\delay.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+..\outfile\delay.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\outfile\delay.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\outfile\delay.o: ..\lib\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\outfile\delay.o: ..\srccode\delay.h
